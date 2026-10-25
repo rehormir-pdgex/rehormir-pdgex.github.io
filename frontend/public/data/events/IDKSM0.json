@@ -1,0 +1,299 @@
+{
+  "name": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+  "startDate": "2026-06-04",
+  "shortId": "IDKSM0",
+  "divisions": {
+    "A": [
+      {
+        "playerKey": "8zPhClQ0Yn",
+        "displayName": "Kryštof Hrubý",
+        "division": "A",
+        "rank": 1,
+        "isTie": false,
+        "points": 100
+      },
+      {
+        "playerKey": "OPOYMAF0qX",
+        "displayName": "Martin Fajta",
+        "division": "A",
+        "rank": 2,
+        "isTie": false,
+        "points": 89.98963035996293
+      },
+      {
+        "playerKey": "0YWVbrUtiD",
+        "displayName": "Pavel Říšský",
+        "division": "A",
+        "rank": 3,
+        "isTie": true,
+        "points": 76.9472957760292
+      },
+      {
+        "playerKey": "JyecJCuNEX",
+        "displayName": "František Viták",
+        "division": "A",
+        "rank": 3,
+        "isTie": true,
+        "points": 76.9472957760292
+      },
+      {
+        "playerKey": "rsHWtjDPqj",
+        "displayName": "Miroslav Rehor",
+        "division": "A",
+        "rank": 5,
+        "isTie": false,
+        "points": 65.63265963479071
+      },
+      {
+        "playerKey": "lzPX8CcjFr",
+        "displayName": "František Marek",
+        "division": "A",
+        "rank": 6,
+        "isTie": false,
+        "points": 59.09733828364972
+      },
+      {
+        "playerKey": "2TCssPCi9m",
+        "displayName": "David Smejkal",
+        "division": "A",
+        "rank": 7,
+        "isTie": false,
+        "points": 53.22283493696679
+      },
+      {
+        "playerKey": "VwIU2Q6YMY",
+        "displayName": "Tomáš Würll",
+        "division": "A",
+        "rank": 8,
+        "isTie": true,
+        "points": 45.56904782250878
+      },
+      {
+        "playerKey": "QeDViLIql8",
+        "displayName": "Honza Soukup",
+        "division": "A",
+        "rank": 8,
+        "isTie": true,
+        "points": 45.56904782250878
+      },
+      {
+        "playerKey": "bZ3EDAyO3S",
+        "displayName": "Václav Pelíšek",
+        "division": "A",
+        "rank": 10,
+        "isTie": false,
+        "points": 38.92914637347907
+      },
+      {
+        "playerKey": "Ry4lCbJQaV",
+        "displayName": "Michal Soukup",
+        "division": "A",
+        "rank": 11,
+        "isTie": false,
+        "points": 35.09394662267507
+      },
+      {
+        "playerKey": "YYHcKRN2hY",
+        "displayName": "Jan Fajtl",
+        "division": "A",
+        "rank": 12,
+        "isTie": false,
+        "points": 31.64654249963798
+      },
+      {
+        "playerKey": "VYERKAx7rK",
+        "displayName": "Jaroslav Fajtl",
+        "division": "A",
+        "rank": 13,
+        "isTie": false,
+        "points": 28.54772210963312
+      },
+      {
+        "playerKey": "4SfKsJz2W0",
+        "displayName": "Filip Jindáček",
+        "division": "A",
+        "rank": 14,
+        "isTie": false,
+        "points": 25.762238462578075
+      }
+    ],
+    "B": [
+      {
+        "playerKey": "w13MxMUDkx",
+        "displayName": "Ondřej Huml",
+        "division": "B",
+        "rank": 1,
+        "isTie": false,
+        "points": 100
+      },
+      {
+        "playerKey": "hqvf7Rlrwc",
+        "displayName": "Samuel Kokoška",
+        "division": "B",
+        "rank": 2,
+        "isTie": false,
+        "points": 89.98963035996293
+      },
+      {
+        "playerKey": "SFVUpxQpzP",
+        "displayName": "Jan Fábera",
+        "division": "B",
+        "rank": 3,
+        "isTie": true,
+        "points": 76.9472957760292
+      },
+      {
+        "playerKey": "45FYEdsOFW",
+        "displayName": "Ivan Žabka",
+        "division": "B",
+        "rank": 3,
+        "isTie": true,
+        "points": 76.9472957760292
+      },
+      {
+        "playerKey": "VFFF1xJTln",
+        "displayName": "Stepan Mares",
+        "division": "B",
+        "rank": 5,
+        "isTie": false,
+        "points": 65.63265963479071
+      },
+      {
+        "playerKey": "vNueoaiNL3",
+        "displayName": "Beta",
+        "division": "B",
+        "rank": 6,
+        "isTie": true,
+        "points": 53.42083476845477
+      },
+      {
+        "playerKey": "HVPN7foo5V",
+        "displayName": "Josef Dobeš",
+        "division": "B",
+        "rank": 6,
+        "isTie": true,
+        "points": 53.42083476845477
+      },
+      {
+        "playerKey": "nEC55rCOmv",
+        "displayName": "Šípan",
+        "division": "B",
+        "rank": 6,
+        "isTie": true,
+        "points": 53.42083476845477
+      },
+      {
+        "playerKey": "vvxCVsA5Uu",
+        "displayName": "Marek Simunek",
+        "division": "B",
+        "rank": 9,
+        "isTie": true,
+        "points": 41.06245546687441
+      },
+      {
+        "playerKey": "7LnZuTuPOs",
+        "displayName": "Petr Smejkal",
+        "division": "B",
+        "rank": 9,
+        "isTie": true,
+        "points": 41.06245546687441
+      },
+      {
+        "playerKey": "FjKUk9KhDk",
+        "displayName": "Michal Pták",
+        "division": "B",
+        "rank": 11,
+        "isTie": false,
+        "points": 35.09394662267507
+      },
+      {
+        "playerKey": "Ay7x7pecWf",
+        "displayName": "Filip Smejkal",
+        "division": "B",
+        "rank": 12,
+        "isTie": false,
+        "points": 31.64654249963798
+      },
+      {
+        "playerKey": "9n7ycULc4W",
+        "displayName": "Ondřej Krčmář",
+        "division": "B",
+        "rank": 13,
+        "isTie": false,
+        "points": 28.54772210963312
+      },
+      {
+        "playerKey": "w5xbFvg8QL",
+        "displayName": "Honza Fajtl",
+        "division": "B",
+        "rank": 14,
+        "isTie": true,
+        "points": 24.51032351245106
+      },
+      {
+        "playerKey": "user_fh84t38bppm3utrpr2tyiqb6",
+        "displayName": "Pavel",
+        "division": "B",
+        "rank": 14,
+        "isTie": true,
+        "points": 24.51032351245106
+      },
+      {
+        "playerKey": "oym8RAuG84",
+        "displayName": "Michael Šrámek",
+        "division": "B",
+        "rank": 16,
+        "isTie": true,
+        "points": 19.052860025371373
+      },
+      {
+        "playerKey": "WtHDajMn4B",
+        "displayName": "Karel Lohr",
+        "division": "B",
+        "rank": 16,
+        "isTie": true,
+        "points": 19.052860025371373
+      },
+      {
+        "playerKey": "user_pcqfnqpp379ty8v82tr05d81",
+        "displayName": "Pavel Průcha",
+        "division": "B",
+        "rank": 16,
+        "isTie": true,
+        "points": 19.052860025371373
+      },
+      {
+        "playerKey": "4J6ryNBb0B",
+        "displayName": "Petr Matoušek",
+        "division": "B",
+        "rank": 19,
+        "isTie": false,
+        "points": 15.531516612331322
+      },
+      {
+        "playerKey": "Imo8rS7yU8",
+        "displayName": "Roman Smola",
+        "division": "B",
+        "rank": 20,
+        "isTie": false,
+        "points": 14.062164564656822
+      },
+      {
+        "playerKey": "iBgu7OW1nN",
+        "displayName": "Anna Matoušková",
+        "division": "B",
+        "rank": 21,
+        "isTie": false,
+        "points": 12.741385821311276
+      },
+      {
+        "playerKey": "aJ305RCh5G",
+        "displayName": "Jan Ticháček",
+        "division": "B",
+        "rank": 22,
+        "isTie": false,
+        "points": 11.554157415678793
+      }
+    ]
+  }
+}

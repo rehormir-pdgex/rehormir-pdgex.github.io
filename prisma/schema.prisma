@@ -1,0 +1,897 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("SQLITE_URL")
+}
+
+model LeagueSnapshot {
+  id          Int      @id @default(autoincrement())
+  leagueSlug  String   @unique
+  data        String
+  updatedAt   DateTime @updatedAt
+}

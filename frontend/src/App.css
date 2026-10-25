@@ -1,0 +1,246 @@
+.page {
+  min-height: 100vh;
+  position: relative;
+}
+
+.watermark {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 480px;
+  max-width: 70vw;
+  opacity: 0.04;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.header {
+  background: var(--color-bg-header);
+  color: var(--color-white);
+  padding: 1.5rem 2rem;
+  position: relative;
+  z-index: 1;
+}
+
+.header-title {
+  font-weight: 800;
+  font-size: 1.9rem;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.header-subtitle {
+  color: #B7BCC7;
+  font-size: 0.95rem;
+  margin: 0.25rem 0 0;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+button.btn {
+  border: none;
+  border-radius: 999px;
+  background: var(--color-ink);
+  color: var(--color-white);
+  padding: 0.55rem 1.25rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s ease, opacity 0.15s ease, transform 0.1s ease;
+}
+
+button.btn:hover:not(:disabled) {
+  background: #2A3A5E;
+}
+
+button.btn:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+button.btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+button.btn.secondary {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  border: 1px solid var(--color-rule);
+}
+
+button.btn.secondary:hover:not(:disabled) {
+  background: #EBE9E1;
+}
+
+.error-text {
+  color: var(--color-red);
+  font-weight: 500;
+}
+
+.division-block {
+  margin-bottom: 2.5rem;
+}
+
+.division-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  border-left: 4px solid var(--division-color, var(--color-ink));
+  padding-left: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.division-heading h2 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.table-card {
+  background: var(--color-white);
+  border: 1px solid var(--color-rule);
+  border-radius: 10px;
+  overflow-x: auto;
+  box-shadow: 0 1px 3px rgba(23, 35, 59, 0.05);
+}
+
+.standings-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.9rem;
+}
+
+.standings-table col.col-rank { width: 3.5rem; }
+.standings-table col.col-name { width: 11rem; }
+.standings-table col.col-total { width: 4.5rem; }
+
+.standings-table th {
+  text-align: left;
+  padding: 0.65rem 0.6rem;
+  background: #F0EFE8;
+  font-weight: 600;
+  font-size: 0.74rem;
+  color: var(--color-ink-soft);
+  border-bottom: 1px solid var(--color-rule);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.standings-table th.numeric,
+.standings-table td.numeric {
+  text-align: right;
+}
+
+.standings-table th.event-col,
+.standings-table td.event-cell {
+  text-align: center;
+}
+
+.standings-table td {
+  padding: 0.55rem 0.6rem;
+  border-bottom: 1px solid var(--color-rule);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.standings-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.standings-table tbody tr:nth-child(even) {
+  background: #FAFAF7;
+}
+
+/* Rank and Name stay visible while the table scrolls sideways */
+.standings-table .sticky {
+  position: sticky;
+  z-index: 2;
+}
+
+.standings-table th.sticky {
+  background: #F0EFE8;
+  z-index: 3;
+}
+
+.standings-table td.sticky {
+  background: var(--color-white);
+}
+
+.standings-table tbody tr:nth-child(even) td.sticky {
+  background: #FAFAF7;
+}
+
+.standings-table .sticky-rank {
+  left: 0;
+}
+
+.standings-table .sticky-name {
+  left: 3.5rem;
+  border-right: 1px solid var(--color-rule);
+}
+
+.rank-cell {
+  font-weight: 700;
+  color: var(--division-color, var(--color-ink));
+}
+
+.total-cell {
+  font-weight: 700;
+}
+
+.event-cell {
+  cursor: pointer;
+  transition: background 0.1s ease;
+}
+
+.event-cell:hover {
+  background: #EFEEE7;
+}
+
+.event-cell.not-played {
+  cursor: default;
+  color: var(--color-ink-soft);
+}
+
+.event-cell.not-played:hover {
+  background: transparent;
+}
+
+.event-cell .dropped {
+  text-decoration: line-through;
+  color: var(--color-ink-soft);
+  font-weight: 400;
+}
+
+.event-panel {
+  border: 1px solid var(--color-rule);
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+  background: var(--color-white);
+  position: relative;
+  box-shadow: 0 1px 3px rgba(23, 35, 59, 0.05);
+}
+
+.event-panel h3 {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin: 0 0 1rem;
+}
+
+.event-panel .close-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
