@@ -1,0 +1,3831 @@
+{
+  "events": [
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+      "shortId": "oN51Mm",
+      "startDate": "2026-04-24"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+      "shortId": "xamWR6",
+      "startDate": "2026-05-21"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+      "shortId": "IDKSM0",
+      "startDate": "2026-06-04"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+      "shortId": "8A8xiD",
+      "startDate": "2026-06-19"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+      "shortId": "0oI3vN",
+      "startDate": "2026-07-02"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+      "shortId": "crWr4y",
+      "startDate": "2026-08-07"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+      "shortId": "vBFd4s",
+      "startDate": "2026-09-03"
+    },
+    {
+      "name": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+      "shortId": "5AY6CX",
+      "startDate": "2026-09-24"
+    }
+  ],
+  "divisions": {
+    "A": [
+      {
+        "name": "Miroslav Rehor",
+        "division": "A",
+        "total": 632,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 66,
+            "rank": 5,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 95,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "name": "Kryštof Hrubý",
+        "division": "A",
+        "total": 627,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 66,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 66,
+            "rank": 5,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "name": "David Smejkal",
+        "division": "A",
+        "total": 501,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 53,
+            "rank": 7,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 85,
+            "rank": 2,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 41,
+            "rank": 8,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 73,
+            "rank": 4,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "name": "František Viták",
+        "division": "A",
+        "total": 465,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 73,
+            "rank": 4,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 48,
+            "rank": 8,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 48,
+            "rank": 8,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 69,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 69,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "name": "Honza Soukup",
+        "division": "A",
+        "total": 431,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 59,
+            "rank": 6,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 62,
+            "rank": 5,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 46,
+            "rank": 8,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 85,
+            "rank": 2,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 56,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 33,
+            "rank": 11,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 41,
+            "rank": 8,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "name": "Tomáš Würll",
+        "division": "A",
+        "total": 415,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 46,
+            "rank": 8,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 66,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 56,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 33,
+            "rank": 11,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 56,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "name": "Václav Pelíšek",
+        "division": "A",
+        "total": 395,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 53,
+            "rank": 7,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 95,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 69,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 41,
+            "rank": 8,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 66,
+            "rank": 5,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "name": "Michal Soukup",
+        "division": "A",
+        "total": 382,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 62,
+            "rank": 5,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 39,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 69,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 43,
+            "rank": 9,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "name": "Pavel Říšský",
+        "division": "A",
+        "total": 380,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 73,
+            "rank": 4,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 66,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 59,
+            "rank": 6,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "name": "František Marek",
+        "division": "A",
+        "total": 350,
+        "eventsPlayed": 6,
+        "eventsCounted": 5,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 59,
+            "rank": 6,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 53,
+            "rank": 7,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 56,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "name": "Michal Vinický",
+        "division": "A",
+        "total": 294,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 39,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 41,
+            "rank": 8,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 48,
+            "rank": 8,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "name": "Jan Fajtl",
+        "division": "A",
+        "total": 242,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 23,
+            "rank": 15,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 43,
+            "rank": 9,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "name": "Filip Jindáček",
+        "division": "A",
+        "total": 236,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 23,
+            "rank": 15,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 59,
+            "rank": 6,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "name": "Martin Fajta",
+        "division": "A",
+        "total": 236,
+        "eventsPlayed": 5,
+        "eventsCounted": 4,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 39,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 46,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "name": "Jaroslav Fajtl",
+        "division": "A",
+        "total": 202,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 19,
+            "rank": 17,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 23,
+            "rank": 15,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "name": "Tomáš Šilhánek",
+        "division": "A",
+        "total": 97,
+        "eventsPlayed": 2,
+        "eventsCounted": 1,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 66,
+            "rank": 5,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "name": "Filip Zavadil",
+        "division": "A",
+        "total": 21,
+        "eventsPlayed": 1,
+        "eventsCounted": 1,
+        "droppedEvent": "Played only 1 round",
+        "droppedReason": "Played only 1 round",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 21,
+            "rank": 16,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 17
+      }
+    ],
+    "B": [
+      {
+        "name": "Jan Fábera",
+        "division": "B",
+        "total": 591,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 95,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 73,
+            "rank": 3,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 90,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "name": "Samuel Kokoška",
+        "division": "B",
+        "total": 550,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 95,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 73,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 73,
+            "rank": 4,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 56,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 63,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "name": "Ondřej Huml",
+        "division": "B",
+        "total": 542,
+        "eventsPlayed": 6,
+        "eventsCounted": 5,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 81,
+            "rank": 3,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 90,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "name": "Ivan Žabka",
+        "division": "B",
+        "total": 472,
+        "eventsPlayed": 6,
+        "eventsCounted": 5,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 66,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 90,
+            "rank": 1,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "name": "Michal Pták",
+        "division": "B",
+        "total": 430,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 66,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 41,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 73,
+            "rank": 4,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 62,
+            "rank": 5,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 63,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "name": "Beta",
+        "division": "B",
+        "total": 407,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 39,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 62,
+            "rank": 5,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 73,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 48,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 77,
+            "rank": 3,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": true
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "name": "Šípan",
+        "division": "B",
+        "total": 406,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 39,
+            "rank": 9,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 69,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 48,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 48,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 43,
+            "rank": 9,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "name": "Josef Dobeš",
+        "division": "B",
+        "total": 405,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 66,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 69,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 48,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 43,
+            "rank": 9,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 62,
+            "rank": 5,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 63,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "name": "Stepan Mares",
+        "division": "B",
+        "total": 397,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 53,
+            "rank": 7,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 41,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 66,
+            "rank": 5,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 48,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 35,
+            "rank": 10,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 100,
+            "rank": 1,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "name": "Pavel Průcha",
+        "division": "B",
+        "total": 329,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 48,
+            "rank": 8,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 19,
+            "rank": 16,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 35,
+            "rank": 10,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 56,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 63,
+            "rank": 4,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "name": "Petr Smejkal",
+        "division": "B",
+        "total": 318,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 30,
+            "rank": 12,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 53,
+            "rank": 6,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 41,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 48,
+            "rank": 7,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 66,
+            "rank": 5,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 48,
+            "rank": 8,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "name": "Marek Simunek",
+        "division": "B",
+        "total": 310,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 30,
+            "rank": 12,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 30,
+            "rank": 12,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 41,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 23,
+            "rank": 15,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 35,
+            "rank": 10,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 48,
+            "rank": 8,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 90,
+            "rank": 2,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "name": "Filip Smejkal",
+        "division": "B",
+        "total": 231,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 21,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 20,
+            "rank": 15,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 32,
+            "rank": 12,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 62,
+            "rank": 5,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 33,
+            "rank": 11,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "name": "Pavel",
+        "division": "B",
+        "total": 160,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 21,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 20,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 25,
+            "rank": 14,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 12,
+            "rank": 22,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 18,
+            "rank": 17,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 33,
+            "rank": 11,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 16,
+            "rank": 18,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "name": "Zápalka",
+        "division": "B",
+        "total": 159,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 20,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 16,
+            "rank": 19,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 16,
+            "rank": 18,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "name": "Roman Smola",
+        "division": "B",
+        "total": 156,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 14,
+            "rank": 20,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 20,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 14,
+            "rank": 20,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 21,
+            "rank": 16,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 13,
+            "rank": 21,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 22,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 43,
+            "rank": 9,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 21,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "name": "Michael Šrámek",
+        "division": "B",
+        "total": 154,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 13,
+            "rank": 21,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 11,
+            "rank": 22,
+            "isTie": true,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 19,
+            "rank": 16,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 19,
+            "rank": 17,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 27,
+            "rank": 13,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 14,
+            "rank": 20,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 23,
+            "rank": 15,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 39,
+            "rank": 10,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "name": "Petr Matoušek",
+        "division": "B",
+        "total": 152,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 16,
+            "rank": 19,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 14,
+            "rank": 20,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 16,
+            "rank": 19,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 33,
+            "rank": 11,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 23,
+            "rank": 15,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 22,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 21,
+            "rank": 16,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 21,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "name": "Karel Lohr",
+        "division": "B",
+        "total": 115,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 10,
+            "rank": 24,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 13,
+            "rank": 21,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 19,
+            "rank": 16,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 12,
+            "rank": 21,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 20,
+            "rank": 16,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 18,
+            "rank": 17,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 17,
+            "rank": 18,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 16,
+            "rank": 18,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "name": "Honza Fajtl",
+        "division": "B",
+        "total": 113,
+        "eventsPlayed": 6,
+        "eventsCounted": 5,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 10,
+            "rank": 23,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 9,
+            "rank": 25,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 25,
+            "rank": 14,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 14,
+            "rank": 20,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 20,
+            "rank": 16,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 35,
+            "rank": 11,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "name": "Jan Ticháček",
+        "division": "B",
+        "total": 112,
+        "eventsPlayed": 8,
+        "eventsCounted": 7,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+        "droppedReason": "lowest score",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 8,
+            "rank": 26,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 11,
+            "rank": 22,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 12,
+            "rank": 22,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 17,
+            "rank": 18,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 16,
+            "rank": 18,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": true,
+            "points": 16,
+            "rank": 19,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 16,
+            "rank": 18,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "name": "Ondřej Krčmář",
+        "division": "B",
+        "total": 105,
+        "eventsPlayed": 4,
+        "eventsCounted": 3,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 17,
+            "rank": 18,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 26,
+            "rank": 14,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 29,
+            "rank": 13,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 33,
+            "rank": 11,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "name": "Anna Matoušková",
+        "division": "B",
+        "total": 97,
+        "eventsPlayed": 7,
+        "eventsCounted": 6,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 7,
+            "rank": 27,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 11,
+            "rank": 22,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": true,
+            "points": 13,
+            "rank": 21,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": true,
+            "points": 12,
+            "rank": 21,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": true,
+            "points": 14,
+            "rank": 20,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": true,
+            "points": 19,
+            "rank": 17,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": true,
+            "points": 21,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "name": "Filip Kulíšek",
+        "division": "B",
+        "total": 42,
+        "eventsPlayed": 2,
+        "eventsCounted": 1,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 12,
+            "rank": 22,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 30,
+            "rank": 12,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "name": "Michal Gernt",
+        "division": "B",
+        "total": 39,
+        "eventsPlayed": 1,
+        "eventsCounted": 1,
+        "droppedEvent": "Played only 1 round",
+        "droppedReason": "Played only 1 round",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 39,
+            "rank": 9,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "name": "Jan Bulín",
+        "division": "B",
+        "total": 37,
+        "eventsPlayed": 2,
+        "eventsCounted": 1,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 21,
+            "rank": 15,
+            "isTie": true,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 16,
+            "rank": 19,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "name": "Jakub Fajta",
+        "division": "B",
+        "total": 14,
+        "eventsPlayed": 2,
+        "eventsCounted": 1,
+        "droppedEvent": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+        "droppedReason": "missed event",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 7,
+            "rank": 28,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": true,
+            "points": 8,
+            "rank": 26,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": true
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "name": "kozlic",
+        "division": "B",
+        "total": 9,
+        "eventsPlayed": 1,
+        "eventsCounted": 1,
+        "droppedEvent": "Played only 1 round",
+        "droppedReason": "Played only 1 round",
+        "perEvent": [
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 1# BORY (2x10 jamek) _",
+            "eventShortId": "oN51Mm",
+            "played": true,
+            "points": 9,
+            "rank": 25,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 2# ROKYCANY (3x 7 jamek",
+            "eventShortId": "xamWR6",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 3# ZBŮCH (3x 6 jamek)",
+            "eventShortId": "IDKSM0",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 4# BŘASY (1x18 jamek)",
+            "eventShortId": "8A8xiD",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 5# STARÝ PLZENEC (2x9 jamek)",
+            "eventShortId": "0oI3vN",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 6# PLZEŇ HOMOLKA (3x5 jamek)",
+            "eventShortId": "crWr4y",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 7# PLZEŇ KŘIMICE (2x9 jamek)",
+            "eventShortId": "vBFd4s",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          },
+          {
+            "eventName": "__ PDGEX 2026 __ 9. sezóna  - 8# SKODALAND BORY (1x 18 jamek - RED)",
+            "eventShortId": "5AY6CX",
+            "played": false,
+            "points": null,
+            "rank": null,
+            "isTie": false,
+            "dropped": false
+          }
+        ],
+        "rank": 28
+      }
+    ]
+  },
+  "lastUpdated": "2026-10-26T06:43:54.821Z"
+}
